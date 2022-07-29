@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Irlbots</string>
+    <string name="placeholder_search">Placeholder search</string>
+    <string name="icn_search_back_content_description">Search back content description</string>
+    <string name="content_description">Content Description</string>
+    <string name="icn_search_clear_content_description">icn_search_clear_content_description</string>
+</resources>
