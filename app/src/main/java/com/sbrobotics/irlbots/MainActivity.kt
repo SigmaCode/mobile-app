@@ -3,9 +3,7 @@ package com.sbrobotics.irlbots
 import android.content.Context
 import android.content.res.Configuration
 import android.media.AudioManager
-import android.os.Build
 import android.os.Bundle
-import android.widget.Button
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.ExperimentalFoundationApi
@@ -29,7 +27,6 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.sbrobotics.irlbots.screens.Home
 import com.sbrobotics.irlbots.screens.Profile
 import com.sbrobotics.irlbots.screens.Welcome
 import com.sbrobotics.irlbots.ui.HomeScreen
